@@ -1,0 +1,6 @@
+{
+  "src/index.tsx": [
+    "react-dom",
+    "react"
+  ]
+}
