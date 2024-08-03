@@ -15,6 +15,7 @@ return array(
     'FestingerVault\\Installer' => $baseDir . '/includes/src/Installer.php',
     'FestingerVault\\Plugin' => $baseDir . '/includes/src/Plugin.php',
     'FestingerVault\\RestAPI' => $baseDir . '/includes/src/RestAPI.php',
+    'FestingerVault\\Upgrade' => $baseDir . '/includes/src/Upgrade.php',
     'FestingerVault\\ViteAssets' => $baseDir . '/includes/src/ViteAssets.php',
     'FestingerVault\\api\\ApiBase' => $baseDir . '/includes/src/api/ApiBase.php',
     'FestingerVault\\api\\Item' => $baseDir . '/includes/src/api/Item.php',
