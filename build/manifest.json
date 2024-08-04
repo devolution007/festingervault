@@ -1,50 +1,50 @@
 {
-  "_BSwkW6Vw.0b255c.js": {
-    "file": "assets/BSwkW6Vw.0b255c.js",
-    "name": "input",
+  "_-018htuS.757efe.js": {
+    "file": "assets/-018htuS.757efe.js",
+    "name": "useInstall",
     "imports": [
-      "src/index.tsx"
+      "src/index.tsx",
+      "_Cx6YPbnK.757efe.js"
     ]
   },
-  "_BhtNQBBr.0b255c.js": {
-    "file": "assets/BhtNQBBr.0b255c.js",
+  "_BNjL3nGu.757efe.js": {
+    "file": "assets/BNjL3nGu.757efe.js",
     "name": "router",
     "imports": [
       "src/index.tsx"
     ]
   },
-  "_BspK8GId.0b255c.js": {
-    "file": "assets/BspK8GId.0b255c.js",
-    "name": "grid",
+  "_Cx6YPbnK.757efe.js": {
+    "file": "assets/Cx6YPbnK.757efe.js",
+    "name": "input",
     "imports": [
       "src/index.tsx"
     ]
   },
-  "_DQXd-Odu.0b255c.js": {
-    "file": "assets/DQXd-Odu.0b255c.js",
-    "name": "useInstall",
-    "imports": [
-      "src/index.tsx",
-      "_BSwkW6Vw.0b255c.js"
-    ]
-  },
-  "_DXqQCM1T.0b255c.js": {
-    "file": "assets/DXqQCM1T.0b255c.js",
-    "name": "index"
-  },
-  "_DpV8xrpq.0b255c.js": {
-    "file": "assets/DpV8xrpq.0b255c.js",
+  "_D0s4wfye.757efe.js": {
+    "file": "assets/D0s4wfye.757efe.js",
     "name": "page-shell",
     "imports": [
       "src/index.tsx"
     ]
   },
-  "_KD1BARN2.0b255c.js": {
-    "file": "assets/KD1BARN2.0b255c.js",
+  "_DXqQCM1T.757efe.js": {
+    "file": "assets/DXqQCM1T.757efe.js",
+    "name": "index"
+  },
+  "_DvubyfLJ.757efe.js": {
+    "file": "assets/DvubyfLJ.757efe.js",
+    "name": "grid",
+    "imports": [
+      "src/index.tsx"
+    ]
+  },
+  "_KD1BARN2.757efe.js": {
+    "file": "assets/KD1BARN2.757efe.js",
     "name": "capitalizeHyphenatedWords"
   },
   "src/index.tsx": {
-    "file": "assets/B9fhH1t5.0b255c.js",
+    "file": "assets/B7yL9hzG.757efe.js",
     "name": "main",
     "src": "src/index.tsx",
     "isEntry": true,
@@ -61,122 +61,122 @@
       "src/pages/updates/index.tsx"
     ],
     "css": [
-      "assets/DXMFUjFf.0b255c.css"
+      "assets/DXMFUjFf.757efe.css"
     ]
   },
   "src/pages/activation/index.tsx": {
-    "file": "assets/KKkY-rVs.0b255c.js",
+    "file": "assets/CLE6M1Mk.757efe.js",
     "name": "index",
     "src": "src/pages/activation/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_DpV8xrpq.0b255c.js",
-      "_BSwkW6Vw.0b255c.js",
-      "_DXqQCM1T.0b255c.js"
+      "_D0s4wfye.757efe.js",
+      "_Cx6YPbnK.757efe.js",
+      "_DXqQCM1T.757efe.js"
     ]
   },
   "src/pages/browse/index.tsx": {
-    "file": "assets/YhHHd7zl.0b255c.js",
+    "file": "assets/iXad1wwn.757efe.js",
     "name": "index",
     "src": "src/pages/browse/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_DpV8xrpq.0b255c.js"
+      "_D0s4wfye.757efe.js"
     ]
   },
   "src/pages/collections/index.tsx": {
-    "file": "assets/BZgZzMPp.0b255c.js",
+    "file": "assets/Dl4jeuDy.757efe.js",
     "name": "index",
     "src": "src/pages/collections/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_DpV8xrpq.0b255c.js"
+      "_D0s4wfye.757efe.js"
     ]
   },
   "src/pages/index.tsx": {
-    "file": "assets/C8HYzebb.0b255c.js",
+    "file": "assets/DBgOsnde.757efe.js",
     "name": "index",
     "src": "src/pages/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_DpV8xrpq.0b255c.js",
-      "_BhtNQBBr.0b255c.js",
-      "_BspK8GId.0b255c.js"
+      "_D0s4wfye.757efe.js",
+      "_BNjL3nGu.757efe.js",
+      "_DvubyfLJ.757efe.js"
     ]
   },
   "src/pages/item/[type]/-[page]/index.tsx": {
-    "file": "assets/kUpraD7U.0b255c.js",
+    "file": "assets/DNPCPAEM.757efe.js",
     "name": "index",
     "src": "src/pages/item/[type]/-[page]/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_DpV8xrpq.0b255c.js",
-      "_DQXd-Odu.0b255c.js",
-      "_BSwkW6Vw.0b255c.js",
-      "_KD1BARN2.0b255c.js",
-      "_BhtNQBBr.0b255c.js",
-      "_DXqQCM1T.0b255c.js"
+      "_D0s4wfye.757efe.js",
+      "_-018htuS.757efe.js",
+      "_Cx6YPbnK.757efe.js",
+      "_KD1BARN2.757efe.js",
+      "_BNjL3nGu.757efe.js",
+      "_DXqQCM1T.757efe.js"
     ]
   },
   "src/pages/item/[type]/detail/[id].tsx": {
-    "file": "assets/B10zXQnK.0b255c.js",
+    "file": "assets/DRkZKKIC.757efe.js",
     "name": "_id_",
     "src": "src/pages/item/[type]/detail/[id].tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_DpV8xrpq.0b255c.js",
-      "_KD1BARN2.0b255c.js",
-      "_BhtNQBBr.0b255c.js",
-      "_BspK8GId.0b255c.js"
+      "_D0s4wfye.757efe.js",
+      "_KD1BARN2.757efe.js",
+      "_BNjL3nGu.757efe.js",
+      "_DvubyfLJ.757efe.js"
     ]
   },
   "src/pages/popular/index.tsx": {
-    "file": "assets/sNlcGRnY.0b255c.js",
+    "file": "assets/w6O5KKYt.757efe.js",
     "name": "index",
     "src": "src/pages/popular/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_DpV8xrpq.0b255c.js"
+      "_D0s4wfye.757efe.js"
     ]
   },
   "src/pages/requests/index.tsx": {
-    "file": "assets/DLVWFcrI.0b255c.js",
+    "file": "assets/BggMLXzT.757efe.js",
     "name": "index",
     "src": "src/pages/requests/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_DpV8xrpq.0b255c.js"
+      "_D0s4wfye.757efe.js"
     ]
   },
   "src/pages/settings/index.tsx": {
-    "file": "assets/CRRA5GeM.0b255c.js",
+    "file": "assets/CMYjUrEA.757efe.js",
     "name": "index",
     "src": "src/pages/settings/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_DpV8xrpq.0b255c.js"
+      "_D0s4wfye.757efe.js"
     ]
   },
   "src/pages/updates/index.tsx": {
-    "file": "assets/Dxp6wkmJ.0b255c.js",
+    "file": "assets/CxReAB4N.757efe.js",
     "name": "index",
     "src": "src/pages/updates/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_DpV8xrpq.0b255c.js",
-      "_DQXd-Odu.0b255c.js",
-      "_BSwkW6Vw.0b255c.js",
-      "_BhtNQBBr.0b255c.js"
+      "_D0s4wfye.757efe.js",
+      "_-018htuS.757efe.js",
+      "_Cx6YPbnK.757efe.js",
+      "_BNjL3nGu.757efe.js"
     ]
   }
 }
