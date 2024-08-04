@@ -1,50 +1,50 @@
 {
-  "_B7xYyleV.516463.js": {
-    "file": "assets/B7xYyleV.516463.js",
-    "name": "router",
-    "imports": [
-      "src/index.tsx"
-    ]
-  },
-  "_BLNTe45X.516463.js": {
-    "file": "assets/BLNTe45X.516463.js",
-    "name": "useInstall",
-    "imports": [
-      "src/index.tsx",
-      "_D504w9Z1.516463.js"
-    ]
-  },
-  "_D504w9Z1.516463.js": {
-    "file": "assets/D504w9Z1.516463.js",
-    "name": "input",
-    "imports": [
-      "src/index.tsx"
-    ]
-  },
-  "_DXqQCM1T.516463.js": {
-    "file": "assets/DXqQCM1T.516463.js",
-    "name": "index"
-  },
-  "_DYCYMPyy.516463.js": {
-    "file": "assets/DYCYMPyy.516463.js",
+  "_3g4C_r36.d4dab8.js": {
+    "file": "assets/3g4C_r36.d4dab8.js",
     "name": "grid",
     "imports": [
       "src/index.tsx"
     ]
   },
-  "_KD1BARN2.516463.js": {
-    "file": "assets/KD1BARN2.516463.js",
-    "name": "capitalizeHyphenatedWords"
+  "_6C11zsHl.d4dab8.js": {
+    "file": "assets/6C11zsHl.d4dab8.js",
+    "name": "useInstall",
+    "imports": [
+      "src/index.tsx",
+      "_CliM4FVv.d4dab8.js"
+    ]
   },
-  "_Ma98PjdF.516463.js": {
-    "file": "assets/Ma98PjdF.516463.js",
+  "_CG6NKn0B.d4dab8.js": {
+    "file": "assets/CG6NKn0B.d4dab8.js",
     "name": "page-shell",
     "imports": [
       "src/index.tsx"
     ]
   },
+  "_CiNgwCai.d4dab8.js": {
+    "file": "assets/CiNgwCai.d4dab8.js",
+    "name": "router",
+    "imports": [
+      "src/index.tsx"
+    ]
+  },
+  "_CliM4FVv.d4dab8.js": {
+    "file": "assets/CliM4FVv.d4dab8.js",
+    "name": "input",
+    "imports": [
+      "src/index.tsx"
+    ]
+  },
+  "_DXqQCM1T.d4dab8.js": {
+    "file": "assets/DXqQCM1T.d4dab8.js",
+    "name": "index"
+  },
+  "_KD1BARN2.d4dab8.js": {
+    "file": "assets/KD1BARN2.d4dab8.js",
+    "name": "capitalizeHyphenatedWords"
+  },
   "src/index.tsx": {
-    "file": "assets/eYWHfXQM.516463.js",
+    "file": "assets/rZ7ERauz.d4dab8.js",
     "name": "main",
     "src": "src/index.tsx",
     "isEntry": true,
@@ -61,122 +61,122 @@
       "src/pages/updates/index.tsx"
     ],
     "css": [
-      "assets/DXMFUjFf.516463.css"
+      "assets/DXMFUjFf.d4dab8.css"
     ]
   },
   "src/pages/activation/index.tsx": {
-    "file": "assets/KgJxwFA-.516463.js",
+    "file": "assets/DYT-ZNgF.d4dab8.js",
     "name": "index",
     "src": "src/pages/activation/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_Ma98PjdF.516463.js",
-      "_D504w9Z1.516463.js",
-      "_DXqQCM1T.516463.js"
+      "_CG6NKn0B.d4dab8.js",
+      "_CliM4FVv.d4dab8.js",
+      "_DXqQCM1T.d4dab8.js"
     ]
   },
   "src/pages/browse/index.tsx": {
-    "file": "assets/CJXlfWhs.516463.js",
+    "file": "assets/KRGGKufg.d4dab8.js",
     "name": "index",
     "src": "src/pages/browse/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_Ma98PjdF.516463.js"
+      "_CG6NKn0B.d4dab8.js"
     ]
   },
   "src/pages/collections/index.tsx": {
-    "file": "assets/COZOmUfK.516463.js",
+    "file": "assets/DngSaTJM.d4dab8.js",
     "name": "index",
     "src": "src/pages/collections/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_Ma98PjdF.516463.js"
+      "_CG6NKn0B.d4dab8.js"
     ]
   },
   "src/pages/index.tsx": {
-    "file": "assets/Ct_3qcwb.516463.js",
+    "file": "assets/DzlqIVQT.d4dab8.js",
     "name": "index",
     "src": "src/pages/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_Ma98PjdF.516463.js",
-      "_B7xYyleV.516463.js",
-      "_DYCYMPyy.516463.js"
+      "_CG6NKn0B.d4dab8.js",
+      "_CiNgwCai.d4dab8.js",
+      "_3g4C_r36.d4dab8.js"
     ]
   },
   "src/pages/item/[type]/-[page]/index.tsx": {
-    "file": "assets/kR2tEszn.516463.js",
+    "file": "assets/B8TnvBAm.d4dab8.js",
     "name": "index",
     "src": "src/pages/item/[type]/-[page]/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_Ma98PjdF.516463.js",
-      "_BLNTe45X.516463.js",
-      "_D504w9Z1.516463.js",
-      "_KD1BARN2.516463.js",
-      "_B7xYyleV.516463.js",
-      "_DXqQCM1T.516463.js"
+      "_CG6NKn0B.d4dab8.js",
+      "_6C11zsHl.d4dab8.js",
+      "_CliM4FVv.d4dab8.js",
+      "_KD1BARN2.d4dab8.js",
+      "_CiNgwCai.d4dab8.js",
+      "_DXqQCM1T.d4dab8.js"
     ]
   },
   "src/pages/item/[type]/detail/[id].tsx": {
-    "file": "assets/DpOS7Aww.516463.js",
+    "file": "assets/BZITx3D0.d4dab8.js",
     "name": "_id_",
     "src": "src/pages/item/[type]/detail/[id].tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_Ma98PjdF.516463.js",
-      "_KD1BARN2.516463.js",
-      "_B7xYyleV.516463.js",
-      "_DYCYMPyy.516463.js"
+      "_CG6NKn0B.d4dab8.js",
+      "_KD1BARN2.d4dab8.js",
+      "_CiNgwCai.d4dab8.js",
+      "_3g4C_r36.d4dab8.js"
     ]
   },
   "src/pages/popular/index.tsx": {
-    "file": "assets/ChxgZaJS.516463.js",
+    "file": "assets/BDHGzogI.d4dab8.js",
     "name": "index",
     "src": "src/pages/popular/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_Ma98PjdF.516463.js"
+      "_CG6NKn0B.d4dab8.js"
     ]
   },
   "src/pages/requests/index.tsx": {
-    "file": "assets/D8leyHrt.516463.js",
+    "file": "assets/Bl-YAPWB.d4dab8.js",
     "name": "index",
     "src": "src/pages/requests/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_Ma98PjdF.516463.js"
+      "_CG6NKn0B.d4dab8.js"
     ]
   },
   "src/pages/settings/index.tsx": {
-    "file": "assets/XZ1xs-3j.516463.js",
+    "file": "assets/D3o42IjP.d4dab8.js",
     "name": "index",
     "src": "src/pages/settings/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_Ma98PjdF.516463.js"
+      "_CG6NKn0B.d4dab8.js"
     ]
   },
   "src/pages/updates/index.tsx": {
-    "file": "assets/tt8DfPly.516463.js",
+    "file": "assets/uieh-aeH.d4dab8.js",
     "name": "index",
     "src": "src/pages/updates/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_Ma98PjdF.516463.js",
-      "_BLNTe45X.516463.js",
-      "_D504w9Z1.516463.js",
-      "_B7xYyleV.516463.js"
+      "_CG6NKn0B.d4dab8.js",
+      "_6C11zsHl.d4dab8.js",
+      "_CliM4FVv.d4dab8.js",
+      "_CiNgwCai.d4dab8.js"
     ]
   }
 }
