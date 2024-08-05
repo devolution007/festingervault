@@ -32,6 +32,7 @@ class ComposerStaticInit31c8f90abaacda9b913f97331b268a4b
         'FestingerVault\\RestAPI' => __DIR__ . '/../../..' . '/includes/src/RestAPI.php',
         'FestingerVault\\Upgrade' => __DIR__ . '/../../..' . '/includes/src/Upgrade.php',
         'FestingerVault\\ViteAssets' => __DIR__ . '/../../..' . '/includes/src/ViteAssets.php',
+        'FestingerVault\\api\\Announcement' => __DIR__ . '/../../..' . '/includes/src/api/Announcement.php',
         'FestingerVault\\api\\ApiBase' => __DIR__ . '/../../..' . '/includes/src/api/ApiBase.php',
         'FestingerVault\\api\\Item' => __DIR__ . '/../../..' . '/includes/src/api/Item.php',
         'FestingerVault\\api\\License' => __DIR__ . '/../../..' . '/includes/src/api/License.php',
