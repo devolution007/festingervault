@@ -1,68 +1,68 @@
 {
-  "_B9rKOKVY.9e999a.js": {
-    "file": "assets/B9rKOKVY.9e999a.js",
-    "name": "install-button",
-    "imports": [
-      "src/index.tsx",
-      "_gmCDxO5F.9e999a.js",
-      "_DCe7-_ma.9e999a.js"
-    ]
-  },
-  "_BHDqq_W8.9e999a.js": {
-    "file": "assets/BHDqq_W8.9e999a.js",
-    "name": "select",
-    "imports": [
-      "src/index.tsx"
-    ]
-  },
-  "_BTOVeKSa.9e999a.js": {
-    "file": "assets/BTOVeKSa.9e999a.js",
-    "name": "input",
-    "imports": [
-      "src/index.tsx"
-    ]
-  },
-  "_BUjjfziE.9e999a.js": {
-    "file": "assets/BUjjfziE.9e999a.js",
+  "_B04XVqQR.faeb35.js": {
+    "file": "assets/B04XVqQR.faeb35.js",
     "name": "capitalizeHyphenatedWords",
     "imports": [
       "src/index.tsx"
     ]
   },
-  "_CwngNBon.9e999a.js": {
-    "file": "assets/CwngNBon.9e999a.js",
-    "name": "page-shell",
+  "_BmeOcN18.faeb35.js": {
+    "file": "assets/BmeOcN18.faeb35.js",
+    "name": "install-button",
     "imports": [
-      "src/index.tsx"
+      "src/index.tsx",
+      "_CyB_DRtR.faeb35.js",
+      "_CVtx7ElZ.faeb35.js"
     ]
   },
-  "_D-V34vTV.9e999a.js": {
-    "file": "assets/D-V34vTV.9e999a.js",
-    "name": "index",
-    "imports": [
-      "src/index.tsx"
-    ]
-  },
-  "_DCe7-_ma.9e999a.js": {
-    "file": "assets/DCe7-_ma.9e999a.js",
+  "_CVtx7ElZ.faeb35.js": {
+    "file": "assets/CVtx7ElZ.faeb35.js",
     "name": "router",
     "imports": [
       "src/index.tsx"
     ]
   },
-  "_DXqQCM1T.9e999a.js": {
-    "file": "assets/DXqQCM1T.9e999a.js",
-    "name": "index"
-  },
-  "_gmCDxO5F.9e999a.js": {
-    "file": "assets/gmCDxO5F.9e999a.js",
+  "_CyB_DRtR.faeb35.js": {
+    "file": "assets/CyB_DRtR.faeb35.js",
     "name": "useApiMutation",
     "imports": [
       "src/index.tsx"
     ]
   },
+  "_D06NRvDY.faeb35.js": {
+    "file": "assets/D06NRvDY.faeb35.js",
+    "name": "index",
+    "imports": [
+      "src/index.tsx"
+    ]
+  },
+  "_DOJVSx4j.faeb35.js": {
+    "file": "assets/DOJVSx4j.faeb35.js",
+    "name": "select",
+    "imports": [
+      "src/index.tsx"
+    ]
+  },
+  "_DXqQCM1T.faeb35.js": {
+    "file": "assets/DXqQCM1T.faeb35.js",
+    "name": "index"
+  },
+  "_Dfzgfdb0.faeb35.js": {
+    "file": "assets/Dfzgfdb0.faeb35.js",
+    "name": "input",
+    "imports": [
+      "src/index.tsx"
+    ]
+  },
+  "_zejJxxYX.faeb35.js": {
+    "file": "assets/zejJxxYX.faeb35.js",
+    "name": "page-shell",
+    "imports": [
+      "src/index.tsx"
+    ]
+  },
   "src/index.tsx": {
-    "file": "assets/BXkyAmp6.9e999a.js",
+    "file": "assets/DnOcjqfd.faeb35.js",
     "name": "main",
     "src": "src/index.tsx",
     "isEntry": true,
@@ -79,130 +79,130 @@
       "src/pages/updates/index.tsx"
     ],
     "css": [
-      "assets/DATGAmJC.9e999a.css"
+      "assets/DATGAmJC.faeb35.css"
     ]
   },
   "src/pages/activation/index.tsx": {
-    "file": "assets/-cJTkhJJ.9e999a.js",
+    "file": "assets/DFOnPPO3.faeb35.js",
     "name": "index",
     "src": "src/pages/activation/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_CwngNBon.9e999a.js",
-      "_gmCDxO5F.9e999a.js",
-      "_BTOVeKSa.9e999a.js",
-      "_DXqQCM1T.9e999a.js"
+      "_zejJxxYX.faeb35.js",
+      "_CyB_DRtR.faeb35.js",
+      "_Dfzgfdb0.faeb35.js",
+      "_DXqQCM1T.faeb35.js"
     ]
   },
   "src/pages/browse/index.tsx": {
-    "file": "assets/DacIry4b.9e999a.js",
+    "file": "assets/sERFUuRG.faeb35.js",
     "name": "index",
     "src": "src/pages/browse/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_CwngNBon.9e999a.js"
+      "_zejJxxYX.faeb35.js"
     ]
   },
   "src/pages/collections/index.tsx": {
-    "file": "assets/BFW4mon4.9e999a.js",
+    "file": "assets/CpZf7bCM.faeb35.js",
     "name": "index",
     "src": "src/pages/collections/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_CwngNBon.9e999a.js"
+      "_zejJxxYX.faeb35.js"
     ]
   },
   "src/pages/index.tsx": {
-    "file": "assets/BiCj1al3.9e999a.js",
+    "file": "assets/kTlCEfNu.faeb35.js",
     "name": "index",
     "src": "src/pages/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_CwngNBon.9e999a.js",
-      "_DCe7-_ma.9e999a.js",
-      "_D-V34vTV.9e999a.js"
+      "_zejJxxYX.faeb35.js",
+      "_CVtx7ElZ.faeb35.js",
+      "_D06NRvDY.faeb35.js"
     ]
   },
   "src/pages/item/[type]/-[page]/index.tsx": {
-    "file": "assets/Cnt9CvHy.9e999a.js",
+    "file": "assets/LaWJOu4L.faeb35.js",
     "name": "index",
     "src": "src/pages/item/[type]/-[page]/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_CwngNBon.9e999a.js",
-      "_BTOVeKSa.9e999a.js",
-      "_BHDqq_W8.9e999a.js",
-      "_BUjjfziE.9e999a.js",
-      "_DCe7-_ma.9e999a.js",
-      "_DXqQCM1T.9e999a.js",
-      "_B9rKOKVY.9e999a.js",
-      "_gmCDxO5F.9e999a.js"
+      "_zejJxxYX.faeb35.js",
+      "_Dfzgfdb0.faeb35.js",
+      "_DOJVSx4j.faeb35.js",
+      "_B04XVqQR.faeb35.js",
+      "_CVtx7ElZ.faeb35.js",
+      "_DXqQCM1T.faeb35.js",
+      "_BmeOcN18.faeb35.js",
+      "_CyB_DRtR.faeb35.js"
     ]
   },
   "src/pages/item/[type]/detail/[id]/-[tab].tsx": {
-    "file": "assets/DyqkkiOJ.9e999a.js",
+    "file": "assets/DU6FEaNa.faeb35.js",
     "name": "-_tab_",
     "src": "src/pages/item/[type]/detail/[id]/-[tab].tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_CwngNBon.9e999a.js",
-      "_BUjjfziE.9e999a.js",
-      "_DCe7-_ma.9e999a.js",
-      "_D-V34vTV.9e999a.js",
-      "_B9rKOKVY.9e999a.js",
-      "_DXqQCM1T.9e999a.js",
-      "_gmCDxO5F.9e999a.js"
+      "_zejJxxYX.faeb35.js",
+      "_B04XVqQR.faeb35.js",
+      "_CVtx7ElZ.faeb35.js",
+      "_D06NRvDY.faeb35.js",
+      "_BmeOcN18.faeb35.js",
+      "_DXqQCM1T.faeb35.js",
+      "_CyB_DRtR.faeb35.js"
     ]
   },
   "src/pages/popular/index.tsx": {
-    "file": "assets/PkEqlTdl.9e999a.js",
+    "file": "assets/vv_YzZVi.faeb35.js",
     "name": "index",
     "src": "src/pages/popular/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_CwngNBon.9e999a.js"
+      "_zejJxxYX.faeb35.js"
     ]
   },
   "src/pages/requests/index.tsx": {
-    "file": "assets/COn8njxi.9e999a.js",
+    "file": "assets/B_pppnuw.faeb35.js",
     "name": "index",
     "src": "src/pages/requests/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_CwngNBon.9e999a.js"
+      "_zejJxxYX.faeb35.js"
     ]
   },
   "src/pages/settings/index.tsx": {
-    "file": "assets/Cz0g_ZdN.9e999a.js",
+    "file": "assets/DpOkPTza.faeb35.js",
     "name": "index",
     "src": "src/pages/settings/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_CwngNBon.9e999a.js"
+      "_zejJxxYX.faeb35.js"
     ]
   },
   "src/pages/updates/index.tsx": {
-    "file": "assets/CRt9Je7s.9e999a.js",
+    "file": "assets/DStrjVgj.faeb35.js",
     "name": "index",
     "src": "src/pages/updates/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_CwngNBon.9e999a.js",
-      "_BHDqq_W8.9e999a.js",
-      "_BTOVeKSa.9e999a.js",
-      "_gmCDxO5F.9e999a.js",
-      "_DCe7-_ma.9e999a.js",
-      "_B9rKOKVY.9e999a.js"
+      "_zejJxxYX.faeb35.js",
+      "_DOJVSx4j.faeb35.js",
+      "_Dfzgfdb0.faeb35.js",
+      "_CyB_DRtR.faeb35.js",
+      "_CVtx7ElZ.faeb35.js",
+      "_BmeOcN18.faeb35.js"
     ]
   }
 }
