@@ -1,80 +1,80 @@
 {
-  "_BL6Uw4H8.292818.js": {
-    "file": "assets/BL6Uw4H8.292818.js",
+  "_BPhK8b_v.e06419.js": {
+    "file": "assets/BPhK8b_v.e06419.js",
     "name": "useApiMutation",
     "imports": [
       "src/index.tsx"
     ]
   },
-  "_CAzBq2Kk.292818.js": {
-    "file": "assets/CAzBq2Kk.292818.js",
+  "_ChK3TlJG.e06419.js": {
+    "file": "assets/ChK3TlJG.e06419.js",
     "name": "simple-table",
     "imports": [
       "src/index.tsx",
-      "_DSuoSxV5.292818.js"
+      "_DBjKjUHd.e06419.js"
     ]
   },
-  "_CCjIAwSF.292818.js": {
-    "file": "assets/CCjIAwSF.292818.js",
-    "name": "select",
-    "imports": [
-      "src/index.tsx"
-    ]
-  },
-  "_DCyZv6Qn.292818.js": {
-    "file": "assets/DCyZv6Qn.292818.js",
-    "name": "input",
-    "imports": [
-      "src/index.tsx"
-    ]
-  },
-  "_DSuoSxV5.292818.js": {
-    "file": "assets/DSuoSxV5.292818.js",
+  "_DBjKjUHd.e06419.js": {
+    "file": "assets/DBjKjUHd.e06419.js",
     "name": "page-shell",
     "imports": [
       "src/index.tsx"
     ]
   },
-  "_DXqQCM1T.292818.js": {
-    "file": "assets/DXqQCM1T.292818.js",
+  "_DXqQCM1T.e06419.js": {
+    "file": "assets/DXqQCM1T.e06419.js",
     "name": "index"
   },
-  "_DlQa9ioL.292818.js": {
-    "file": "assets/DlQa9ioL.292818.js",
-    "name": "index",
+  "_DrrTnjPa.e06419.js": {
+    "file": "assets/DrrTnjPa.e06419.js",
+    "name": "select",
     "imports": [
       "src/index.tsx"
     ]
   },
-  "_F8bo6shF.292818.js": {
-    "file": "assets/F8bo6shF.292818.js",
+  "_DyV9hKAc.e06419.js": {
+    "file": "assets/DyV9hKAc.e06419.js",
     "name": "Paging",
     "imports": [
       "src/index.tsx"
     ]
   },
-  "_WIGH7n5M.292818.js": {
-    "file": "assets/WIGH7n5M.292818.js",
+  "_dYGUanBz.e06419.js": {
+    "file": "assets/dYGUanBz.e06419.js",
+    "name": "index",
+    "imports": [
+      "src/index.tsx"
+    ]
+  },
+  "_lf8n21nb.e06419.js": {
+    "file": "assets/lf8n21nb.e06419.js",
+    "name": "capitalizeHyphenatedWords"
+  },
+  "_swgNyc53.e06419.js": {
+    "file": "assets/swgNyc53.e06419.js",
+    "name": "input",
+    "imports": [
+      "src/index.tsx"
+    ]
+  },
+  "_u4GDdj24.e06419.js": {
+    "file": "assets/u4GDdj24.e06419.js",
     "name": "router",
     "imports": [
       "src/index.tsx"
     ]
   },
-  "_aC8bZxAo.292818.js": {
-    "file": "assets/aC8bZxAo.292818.js",
+  "_w0uDahQK.e06419.js": {
+    "file": "assets/w0uDahQK.e06419.js",
     "name": "install-button",
     "imports": [
       "src/index.tsx",
-      "_BL6Uw4H8.292818.js",
-      "_WIGH7n5M.292818.js"
+      "_BPhK8b_v.e06419.js",
+      "_u4GDdj24.e06419.js"
     ]
   },
-  "_lf8n21nb.292818.js": {
-    "file": "assets/lf8n21nb.292818.js",
-    "name": "capitalizeHyphenatedWords"
-  },
   "src/index.tsx": {
-    "file": "assets/Cdkdssrm.292818.js",
+    "file": "assets/BnJkUcb2.e06419.js",
     "name": "main",
     "src": "src/index.tsx",
     "isEntry": true,
@@ -92,146 +92,146 @@
       "src/pages/updates/index.tsx"
     ],
     "css": [
-      "assets/pOL27E_v.292818.css"
+      "assets/pOL27E_v.e06419.css"
     ]
   },
   "src/pages/activation/index.tsx": {
-    "file": "assets/CwWRIDpX.292818.js",
+    "file": "assets/Di4KRGVT.e06419.js",
     "name": "index",
     "src": "src/pages/activation/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_DSuoSxV5.292818.js",
-      "_BL6Uw4H8.292818.js",
-      "_DCyZv6Qn.292818.js",
-      "_DXqQCM1T.292818.js"
+      "_DBjKjUHd.e06419.js",
+      "_BPhK8b_v.e06419.js",
+      "_swgNyc53.e06419.js",
+      "_DXqQCM1T.e06419.js"
     ]
   },
   "src/pages/browse/index.tsx": {
-    "file": "assets/DjNMFbup.292818.js",
+    "file": "assets/IHWdpzPy.e06419.js",
     "name": "index",
     "src": "src/pages/browse/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_DSuoSxV5.292818.js"
+      "_DBjKjUHd.e06419.js"
     ]
   },
   "src/pages/collections/index.tsx": {
-    "file": "assets/CQWlmEGJ.292818.js",
+    "file": "assets/d3hjZjLk.e06419.js",
     "name": "index",
     "src": "src/pages/collections/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_DSuoSxV5.292818.js"
+      "_DBjKjUHd.e06419.js"
     ]
   },
   "src/pages/history/-[page].tsx": {
-    "file": "assets/B5up-Qrf.292818.js",
+    "file": "assets/z-Ov99vO.e06419.js",
     "name": "-_page_",
     "src": "src/pages/history/-[page].tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_DSuoSxV5.292818.js",
-      "_WIGH7n5M.292818.js",
-      "_CAzBq2Kk.292818.js",
-      "_F8bo6shF.292818.js"
+      "_DBjKjUHd.e06419.js",
+      "_u4GDdj24.e06419.js",
+      "_ChK3TlJG.e06419.js",
+      "_DyV9hKAc.e06419.js"
     ]
   },
   "src/pages/index.tsx": {
-    "file": "assets/YQUB9SuJ.292818.js",
+    "file": "assets/BMWbOXDb.e06419.js",
     "name": "index",
     "src": "src/pages/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_DSuoSxV5.292818.js",
-      "_WIGH7n5M.292818.js",
-      "_DlQa9ioL.292818.js"
+      "_DBjKjUHd.e06419.js",
+      "_u4GDdj24.e06419.js",
+      "_dYGUanBz.e06419.js"
     ]
   },
   "src/pages/item/[type]/-[page]/index.tsx": {
-    "file": "assets/DRQBlWIe.292818.js",
+    "file": "assets/CExg2YXq.e06419.js",
     "name": "index",
     "src": "src/pages/item/[type]/-[page]/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_DSuoSxV5.292818.js",
-      "_DCyZv6Qn.292818.js",
-      "_CCjIAwSF.292818.js",
-      "_lf8n21nb.292818.js",
-      "_WIGH7n5M.292818.js",
-      "_DXqQCM1T.292818.js",
-      "_F8bo6shF.292818.js",
-      "_aC8bZxAo.292818.js",
-      "_BL6Uw4H8.292818.js"
+      "_DBjKjUHd.e06419.js",
+      "_swgNyc53.e06419.js",
+      "_DrrTnjPa.e06419.js",
+      "_lf8n21nb.e06419.js",
+      "_u4GDdj24.e06419.js",
+      "_DXqQCM1T.e06419.js",
+      "_DyV9hKAc.e06419.js",
+      "_w0uDahQK.e06419.js",
+      "_BPhK8b_v.e06419.js"
     ]
   },
   "src/pages/item/[type]/detail/[id]/-[tab].tsx": {
-    "file": "assets/CpbE76J7.292818.js",
+    "file": "assets/ClRl9s2a.e06419.js",
     "name": "-_tab_",
     "src": "src/pages/item/[type]/detail/[id]/-[tab].tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_DSuoSxV5.292818.js",
-      "_lf8n21nb.292818.js",
-      "_WIGH7n5M.292818.js",
-      "_DlQa9ioL.292818.js",
-      "_aC8bZxAo.292818.js",
-      "_CAzBq2Kk.292818.js",
-      "_F8bo6shF.292818.js",
-      "_DXqQCM1T.292818.js",
-      "_BL6Uw4H8.292818.js"
+      "_DBjKjUHd.e06419.js",
+      "_lf8n21nb.e06419.js",
+      "_u4GDdj24.e06419.js",
+      "_dYGUanBz.e06419.js",
+      "_w0uDahQK.e06419.js",
+      "_ChK3TlJG.e06419.js",
+      "_DyV9hKAc.e06419.js",
+      "_DXqQCM1T.e06419.js",
+      "_BPhK8b_v.e06419.js"
     ]
   },
   "src/pages/popular/index.tsx": {
-    "file": "assets/C83QpK-U.292818.js",
+    "file": "assets/CqNmh3kS.e06419.js",
     "name": "index",
     "src": "src/pages/popular/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_DSuoSxV5.292818.js"
+      "_DBjKjUHd.e06419.js"
     ]
   },
   "src/pages/requests/index.tsx": {
-    "file": "assets/CW0f-2zD.292818.js",
+    "file": "assets/BdFny61p.e06419.js",
     "name": "index",
     "src": "src/pages/requests/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_DSuoSxV5.292818.js"
+      "_DBjKjUHd.e06419.js"
     ]
   },
   "src/pages/settings/index.tsx": {
-    "file": "assets/1M6vFM2d.292818.js",
+    "file": "assets/DlCYfsvw.e06419.js",
     "name": "index",
     "src": "src/pages/settings/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_DSuoSxV5.292818.js"
+      "_DBjKjUHd.e06419.js"
     ]
   },
   "src/pages/updates/index.tsx": {
-    "file": "assets/D7tHUD6O.292818.js",
+    "file": "assets/DsrMZ0Nj.e06419.js",
     "name": "index",
     "src": "src/pages/updates/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "src/index.tsx",
-      "_DSuoSxV5.292818.js",
-      "_CCjIAwSF.292818.js",
-      "_DCyZv6Qn.292818.js",
-      "_BL6Uw4H8.292818.js",
-      "_WIGH7n5M.292818.js",
-      "_aC8bZxAo.292818.js"
+      "_DBjKjUHd.e06419.js",
+      "_DrrTnjPa.e06419.js",
+      "_swgNyc53.e06419.js",
+      "_BPhK8b_v.e06419.js",
+      "_w0uDahQK.e06419.js",
+      "_u4GDdj24.e06419.js"
     ]
   }
 }
