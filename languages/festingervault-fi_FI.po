@@ -7,11 +7,11 @@ msgstr ""
 "X-Crowdin-Project-ID: 710101\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File: festingervault.pot\n"
-"X-Crowdin-File-ID: 8\n"
+"X-Crowdin-File-ID: 10\n"
 "Project-Id-Version: festingervault-test\n"
 "Language-Team: Finnish\n"
 "Language: fi_FI\n"
-"PO-Revision-Date: 2024-08-25 10:34\n"
+"PO-Revision-Date: 2024-08-25 13:09\n"
 
 #: src/components/additional-download-button.tsx:111
 #: src/components/install-button.tsx:160
@@ -19,12 +19,12 @@ msgid "%d download credit would be consumed from your account."
 msgstr ""
 
 #: src/components/additional-download-button.tsx:138
-#: src/components/install-button.tsx:211
+#: src/components/install-button.tsx:209
 msgid "Download"
 msgstr ""
 
 #: src/components/additional-download-button.tsx:143
-#: src/components/install-button.tsx:236
+#: src/components/install-button.tsx:234
 #: src/pages/activation/_components/activation-detail.tsx:131
 msgid "Cancel"
 msgstr ""
@@ -96,33 +96,33 @@ msgstr ""
 msgid "Re-install version %s"
 msgstr ""
 
-#: src/components/install-button.tsx:168
+#: src/components/install-button.tsx:166
 msgid "Daily Limit:"
 msgstr ""
 
-#: src/components/install-button.tsx:171
+#: src/components/install-button.tsx:169
 msgid "Used Limit:"
 msgstr ""
 
-#: src/components/install-button.tsx:175
+#: src/components/install-button.tsx:173
 msgid "Total Limit:"
 msgstr ""
 
-#: src/components/install-button.tsx:197
+#: src/components/install-button.tsx:195
 #: src/pages/updates/_components/updates-table.tsx:68
 msgid "Update"
 msgstr ""
 
-#: src/components/install-button.tsx:198
+#: src/components/install-button.tsx:196
 #: src/pages/updates/_components/updates-table.tsx:102
 msgid "Re-Install"
 msgstr ""
 
-#: src/components/install-button.tsx:199
+#: src/components/install-button.tsx:197
 msgid "Install"
 msgstr ""
 
-#: src/components/install-button.tsx:230
+#: src/components/install-button.tsx:228
 msgid "Roll-Back"
 msgstr ""
 

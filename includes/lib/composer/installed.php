@@ -3,7 +3,7 @@
         'name' => 'sovit/festingervault',
         'pretty_version' => 'dev-beta',
         'version' => 'dev-beta',
-        'reference' => '30e03d13942535bbe57c6fb0b846212f3824a62b',
+        'reference' => '788ce444d4b7ea5c68fb7c3f091cad34c9273d83',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'sovit/festingervault' => array(
             'pretty_version' => 'dev-beta',
             'version' => 'dev-beta',
-            'reference' => '30e03d13942535bbe57c6fb0b846212f3824a62b',
+            'reference' => '788ce444d4b7ea5c68fb7c3f091cad34c9273d83',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../../',
             'aliases' => array(),
